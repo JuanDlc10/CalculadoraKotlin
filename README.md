@@ -1,4 +1,4 @@
-# Manual de Uso - Calculadora en Kotlin
+# Manual de calculadora en Kotlin
 
 Este manual describe el funcionamiento de una calculadora implementada en Kotlin que permite realizar operaciones aritméticas básicas: **Suma, Resta, Multiplicación y División**. Para ello, utiliza dos botones y un `Spinner` que actúa como selector de operaciones.
 
