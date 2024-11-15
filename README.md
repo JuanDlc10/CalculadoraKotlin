@@ -71,7 +71,6 @@ Cada una de estas funciones realiza su operación respectiva y se utiliza en la 
 El mensaje de resultado se muestra en un diálogo personalizado (`AlertDialog`) que contiene:
 - **Título**: Nombre de la operación.
 - **Mensaje**: El resultado de la operación.
-- **Botones de Confirmación y Cancelación**: Permiten cerrar el cuadro de diálogo.
 
 ## Navegación Inferior (`BottomNavigationView`)
 
